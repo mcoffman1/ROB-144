@@ -13,6 +13,7 @@ This project runs a local Large Language Model (LLM) entirely in your browser us
 1. **Ensure all files are in the same folder**:
    - `index.html`
    - `index.js`
+   - The easiest way is to copy and paste the `script_downloader.py` file and run it in the location you want your files saved
 
 2. **Download the model file** (if not already present):
    - Run the following in your terminal:
