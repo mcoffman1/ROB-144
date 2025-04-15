@@ -21,6 +21,8 @@ This project runs a local Large Language Model (LLM) entirely in your browser us
      ```
    - This will download `gemma-2b-it-gpu-int4.bin` to the current folder.
 
+   - You can also download it the model directly from mediapipe: https://www.kaggle.com/models/google/gemma/tfLite/gemma-2b-it-gpu-int4
+
 3. **Start a local web server** from that folder:
    ```bash
    python -m http.server 8000
